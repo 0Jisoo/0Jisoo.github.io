@@ -184,3 +184,7 @@ function draw() {
 	y += dy * easing;
 	image(img1, x, y, 500*0.2, 500*0.2)
 }
+
+funcion windowresuzed() {
+resixedCanvas(windowWidth, windowHeight)
+}
